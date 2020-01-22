@@ -50,4 +50,5 @@ This assignment will just familarize you with the environment we'll use: Microso
 2. Create item 3 below **in bold**. Create item 4 below _in italic_. Scroll up and click the **Preview** button. The file will be rendered with the changes highlighted. Commit the file.
 
 **item 3**
+
 _item 4_
