@@ -49,3 +49,5 @@ This assignment will just familarize you with the environment we'll use: Microso
 1. Open the [README](README.md) file by first clicking on the filename and then clicking the "pencil" icon. You will see the file in _markdown_ format. Note the `md` extension. This is an easy language for formatting the text with highlights, headings, links, images, etc. Refer to the [Github markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for the most common features.
 2. Create item 3 below **in bold**. Create item 4 below _in italic_. Scroll up and click the **Preview** button. The file will be rendered with the changes highlighted. Commit the file.
 
+**item 3**
+_item 4_
